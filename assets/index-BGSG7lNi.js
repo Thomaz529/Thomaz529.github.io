@@ -1,0 +1,1 @@
+import{E as e}from"./index-DUkn24SG.js";import{C as o}from"./CesiumEarth-Bb_VGzoX.js";import{_ as a,j as r,n as s,o as n}from"./index-CI6Yo9Nv.js";const c={__name:"index",setup(_){return r(()=>{setTimeout(()=>{new o().createSlopeTriangulation()},1e3)}),(t,p)=>(n(),s(e))}},d=a(c,[["__scopeId","data-v-c2e6364d"]]);export{d as default};
